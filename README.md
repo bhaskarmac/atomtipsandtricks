@@ -19,19 +19,17 @@ To toggle comments use following key combinations.
 #### Changing scrollbar width and color
 Add following code snippet in styles.less [File->Stylesheet...]
 
-```javascript
+```css
 ::-webkit-scrollbar {
-  width: 15px !important;
-  border: 0px;
+  width: 12px !important;
+  border: 0!important;
 
   &-track {
-    border: 0px!important;
     background-color: #2c3e50 !important;
   }
 
   &-thumb {
     background-color: #3498db !important;
-    border: 0px!important;
   }
 }
 ```
