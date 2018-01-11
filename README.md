@@ -1,6 +1,11 @@
 # Atom tips and tricks
 
-## Tips
+### Table of Contents
+**[Multiple Cursors](#multiple-cursorss)**<br>
+**[Duplicate line](#duplicate-line)**<br>
+**[Toggle comments](#toggle-comments)**<br>
+**[Changing scrollbar style](#changing-scrollbar-style)**<br>
+
 #### Multiple Cursors
 Just hold cmd (Mac) or ctrl (Windows/Linux) and click in every place you want to type.
 
@@ -10,13 +15,13 @@ To create a duplicate line use following key combinations.
 `Cmd + Shift + D (Mac)`
 `Ctrl + Shift + D (Windows/Linux)`
 
-#### Toggle comments (on and off)
+#### Toggle comments
 To toggle comments use following key combinations.
 
 `Cmd + / (Mac)`
 `Ctrl + / (Windows/Linux)`
 
-#### Changing scrollbar width and color
+#### Changing scrollbar style
 Add following code snippet in styles.less [File->Stylesheet...]
 
 ```css
