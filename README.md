@@ -19,7 +19,8 @@ To toggle comments use following key combinations.
 #### Changing scrollbar width and color
 Add following code snippet in styles.less [File->Stylesheet...]
 
-`::-webkit-scrollbar {
+```javascript
+::-webkit-scrollbar {
   width: 15px !important;
   border: 0px;
 
@@ -32,4 +33,5 @@ Add following code snippet in styles.less [File->Stylesheet...]
     background-color: #3498db !important;
     border: 0px!important;
   }
-}`
+}
+```
